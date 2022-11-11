@@ -1,4 +1,4 @@
-package task_2_3;
+package task_2;
 
 public class TXTHandler extends AbstractHandler {
     @Override
